@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image: url(../fantasy.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+.div1{
+    
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(53, 53, 57, 0.5 );
+    height: 8vh;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.ul1{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 8px;
+    align-items: center;
+
+    
+}
+.ul2{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 30px;
+    align-items: center;
+    
+}
+.img1{
+    height: 30px;
+    
+}
+.img2{
+    height: 30px;
+}
+.li2{
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+}
+.li4{
+    font-size: 15px;
+    color: white;
+}
+.btn1{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0;
+    border-radius: 5px;
+
+  
+}
+.div2{
+   align-content: center;
+   padding-top: 200px;
+}
+.ul01{
+    display: flex;
+    align-content: center;
+    list-style: none;
+    
+    
+    
+}
+.in2{
+    width: 700px;
+    border: 0;
+    height: 33px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 14px;
+    color: black;
+    font-weight: bolder;
+    background-color: rgb(255, 255, 255, 0.5);
+    
+}
+.btn2{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 0;
+    background-color: rgb(255, 255, 255, 0.5)
+
+}
+.p1{
+    font-size: 60px;
+    color: white;
+}
+.p2{
+    font-size: 30px;
+    color: white;
+    padding-top: 35px;
+}
+.btn3{
+    font-size: 23px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 0;
+    margin-top: 60px;
+    font-weight: bolder;
+}
+.p3{
+    padding-top: 186px;
+    font-size: 15px;
+    font-weight: lighter;
+    color: white;
+    padding-bottom: 18px;
+}
+.ul4{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 7vh;
+    align-items: center;
+    list-style: none;
+    color: #80817d;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+
+}
+.li5{
+    
+}
